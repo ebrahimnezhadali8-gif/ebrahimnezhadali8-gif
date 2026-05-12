@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">I am Ali EbrahimNezhad, a passionate full stack web developer from Iran</h3>
+<h3 align="center">I am Ali EbrahimNezhad, a passionate backend developer from Iran</h3>
 
 - 🌱 I’m currently learning **Advanced JavaScript, Node.js best practices, REST API architecture**
 
